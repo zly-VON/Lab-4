@@ -1,0 +1,40 @@
+Coca Cola 
+12.12.2021
+1.30
+5
+0.5
+Sprite
+15.03.2022
+1.60
+2
+1
+Water
+17.08.2022
+1.09
+7
+1.5
+Juice
+14.09.2022
+1.75
+0
+1
+Red Bull
+13.12.2021
+0.80
+2
+1.5
+Coffee
+NoData
+1.99
+5
+0.150
+Cappuccino
+NoData
+1.99
+4
+0.200
+Hot Chocolate
+NoData
+2
+0
+0.200
