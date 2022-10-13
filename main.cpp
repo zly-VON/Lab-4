@@ -178,6 +178,9 @@ int main(void)
                 break;
             }
         }
+        system("clear");
+        cout << "The customer wants to leave the store" << endl;
+        sleep(2);
 
         system("clear");
         if (customers[i].getBalance() >= customers[i].getSum())
@@ -195,6 +198,11 @@ int main(void)
                 customers[i].Payment();
                 customers[i].setCheque(employees[0].changeCheque(customers[i].getCheque()));
                 customers[i].setSum(0);
+            }
+            else  
+            {
+            	cout << customers[i].getName() << "decided to skip the cashier and not pay" << endl;
+            	sleep(2);
             }
 
             system("clear");
